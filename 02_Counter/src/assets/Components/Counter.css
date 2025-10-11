@@ -1,0 +1,20 @@
+/* .counter{
+    background-color: rgb(250, 228, 200);
+    color: darkblue;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+#btn{
+    height: 36px;
+    background: skyblue;
+    border: 1px solid lightblue;
+    border-radius: 10px;
+}
+#btn:hover{
+    color: white;
+    background-color: rgb(161, 161, 255);
+} */

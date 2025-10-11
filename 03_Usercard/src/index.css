@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 300px;
+    border: 1px solid black;
+}
