@@ -1,0 +1,206 @@
+[{
+    "id": "1",
+    "name": "Litti Chokha",
+    "category": "veg",
+    "image": "litti chokha Bihar traditional",
+    "prevImage": "",
+    "rating": 4.8,
+    "reviews": 156,
+    "prepTime": "30min",
+    "cookTime": "45min",
+    "calories": 330,
+    "protein": 10.5,
+    "description": "A beloved traditional Bihari dish featuring round, whole wheat dough balls stuffed with spiced roasted gram flour (sattu) and served with chokha—a rustic, smoky mash of roasted eggplant, potatoes, and tomatoes. This nutrient-dense comfort food is typically cooked over charcoal or in an oven for an authentic smoky flavor and crispy exterior. Traditionally served hot with generous dollops of ghee. Can be enjoyed for lunch or dinner with a side of dal tadka.",
+    "ingredients": [
+      {
+        "name": "Whole wheat flour (atta)",
+        "quantity": "2 cups",
+        "priceRange": "40-60",
+        "estimatedPrice": 50
+      },
+      {
+        "name": "Sattu (roasted gram flour)",
+        "quantity": "1 cup",
+        "priceRange": "60-100",
+        "estimatedPrice": 80
+      },
+      {
+        "name": "Eggplant (brinjal)",
+        "quantity": "2 large",
+        "priceRange": "30-50",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "Tomatoes",
+        "quantity": "4 medium",
+        "priceRange": "40-60",
+        "estimatedPrice": 50
+      },
+      {
+        "name": "Potatoes",
+        "quantity": "3 medium",
+        "priceRange": "30-50",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "Ghee (clarified butter)",
+        "quantity": "½ cup",
+        "priceRange": "80-120",
+        "estimatedPrice": 100
+      },
+      {
+        "name": "Mustard oil",
+        "quantity": "4 tbsp",
+        "priceRange": "40-60",
+        "estimatedPrice": 50
+      },
+      {
+        "name": "Green chilies",
+        "quantity": "4-5",
+        "priceRange": "10-20",
+        "estimatedPrice": 15
+      },
+      {
+        "name": "Ginger",
+        "quantity": "2 tbsp grated",
+        "priceRange": "15-25",
+        "estimatedPrice": 20
+      },
+      {
+        "name": "Garlic cloves",
+        "quantity": "8-10",
+        "priceRange": "20-30",
+        "estimatedPrice": 25
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 medium",
+        "priceRange": "15-25",
+        "estimatedPrice": 20
+      },
+      {
+        "name": "Fresh coriander (cilantro)",
+        "quantity": "½ cup chopped",
+        "priceRange": "10-20",
+        "estimatedPrice": 15
+      },
+      {
+        "name": "Lemon juice",
+        "quantity": "3-4 tbsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 15
+      },
+      {
+        "name": "Ajwain (carom seeds)",
+        "quantity": "1 tbsp",
+        "priceRange": "20-40",
+        "estimatedPrice": 30
+      },
+      {
+        "name": "Kalonji (nigella seeds)",
+        "quantity": "1 tsp",
+        "priceRange": "40-60",
+        "estimatedPrice": 50
+      },
+      {
+        "name": "Cumin seeds (jeera)",
+        "quantity": "1 tsp",
+        "priceRange": "30-50",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "Black salt (kala namak)",
+        "quantity": "½ tsp",
+        "priceRange": "30-50",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste",
+        "priceRange": "10-15",
+        "estimatedPrice": 12
+      },
+      {
+        "name": "Water",
+        "quantity": "1½ cups",
+        "priceRange": "5-10",
+        "estimatedPrice": 8
+      }
+    ],
+    "preCookingProcess": [
+      "For the Litti dough: In a large mixing bowl, combine 2 cups whole wheat flour, ½ teaspoon salt, and 1 tablespoon ajwain (carom seeds).",
+      "Add 3-4 tablespoons ghee to the flour mixture.",
+      "Add water in small portions and knead into a smooth, soft dough. The dough should be slightly firmer than regular roti dough.",
+      "Cover with a damp cloth and let rest for 15-20 minutes.",
+      "For the Sattu filling: In a bowl, combine 1 cup sattu flour with ½ teaspoon salt, ½ teaspoon kalonji, ½ teaspoon cumin seeds, 1 teaspoon ajwain, 1-2 teaspoons finely chopped green chilies, 1 teaspoon grated ginger, 1 teaspoon finely chopped garlic, 2 tablespoons chopped fresh coriander, and 2 tablespoons mustard oil.",
+      "Add 2-3 tablespoons water and mix until the filling is moist but not wet. The consistency should be crumbly and hold together.",
+      "Adjust salt and spices to taste. Set aside.",
+      "For the Chokha vegetables: Brush 2 large eggplants and 4 medium tomatoes with oil and place on a roasting grill over an open flame.",
+      "Roast, turning occasionally, until the skin turns black and charred on all sides. This takes about 8-10 minutes for tomatoes and 10-12 minutes for eggplants.",
+      "Boil 3 medium potatoes until completely cooked and tender. Peel and set aside.",
+      "Once roasted, place the eggplants and tomatoes on a plate, cover with foil or cling wrap while hot to allow steam to soften the skins."
+    ],
+    "cookingProcess": {
+      "Shape and stuff the Litti": [
+        "Grease your palms with a little ghee.",
+        "Take a small, lemon-sized ball of dough from the rested dough.",
+        "Flatten it gently to create a small bowl shape using your thumb and fingers.",
+        "Place about 1½ tablespoons of sattu filling in the center.",
+        "Gradually bring the edges together and seal the stuffing inside.",
+        "Gently shape into a smooth ball, ensuring no cracks form. Repeat with remaining dough and filling to make 8-10 littis.",
+        "Place all shaped littis on a lightly oiled plate or tray."
+      ],
+      "Cook the Litti": [
+        "Preheat oven to 180°C (360°F) for 10 minutes. Alternatively, heat a heavy-bottomed pan or griddle over medium-high heat.",
+        "Place littis on a baking tray or directly on the hot griddle/pan in a single layer.",
+        "Cook for 15-20 minutes in the oven, turning every 5 minutes to ensure even browning, OR pan-fry for about 20-25 minutes on medium-high heat, turning frequently until all sides are golden brown and crispy.",
+        "The littis should have a light brown to golden-brown color and a slightly cracked appearance when properly cooked.",
+        "For authentic smoky flavor, place cooked littis on an open flame for 1-2 minutes, rotating to get charred spots.",
+        "Remove from heat and immediately brush generously with hot ghee on all sides while still warm."
+      ],
+      "Prepare the Chokha": [
+        "Once cooled slightly, peel off the charred skin from the roasted eggplants and tomatoes. The skin should come off easily.",
+        "Transfer the peeled eggplants and tomatoes to a mixing bowl.",
+        "Add the boiled, peeled, and slightly mashed potatoes to the bowl.",
+        "Add 1 teaspoon salt, ¼ teaspoon black salt, 2 tablespoons finely chopped green chilies, 2 tablespoons grated ginger, 2 tablespoons finely chopped garlic, and ½ cup chopped fresh coriander.",
+        "Using a masher or the back of a spoon, mash all vegetables together to a coarse texture. The chokha should not be completely smooth—some texture is preferred.",
+        "In a small pan, heat 2 tablespoons mustard oil over medium heat.",
+        "Add 1 teaspoon cumin seeds and let them crackle for 15-20 seconds.",
+        "Finely chop 1 medium onion and add it to the hot oil along with 2-3 teaspoons grated ginger, 2-3 green chilies, and 3-4 chopped garlic cloves.",
+        "Sauté for 1-2 minutes until the onions become soft and fragrant.",
+        "Pour this tempering over the mashed vegetables and mix well.",
+        "Add 3-4 tablespoons fresh lemon juice and mix thoroughly.",
+        "Taste and adjust salt and spices as needed. The chokha should have a balance of tangy, spicy, and earthy flavors."
+      ]
+    },
+    "postCookingProcess": [
+      "Serve the hot littis immediately while they are warm and crispy.",
+      "Place littis on a serving plate and pour the warm chokha in a separate bowl alongside.",
+      "Traditionally, each litti is dipped generously in ghee and then enjoyed with the chokha.",
+      "Serve with finely sliced onion rings, fresh lemon wedges, and extra green chilies on the side for individual taste preferences.",
+      "Optionally, serve with dal tadka (tempered lentils) on the side for a more complete meal.",
+      "Garnish the chokha with fresh coriander leaves and a drizzle of mustard oil.",
+      "Best enjoyed hot and fresh; littis can lose their crispness if allowed to cool for too long."
+    ],
+    "nutritionClassification": {
+      "protein": "10.5g per serving",
+      "carbs": "50g per serving",
+      "fats": "6.9g per serving",
+      "fiber": "8.4g per serving"
+    },
+    "tipsAndTricks": [
+      "[translate:Sattu] flour must be properly roasted for authentic nutty flavor",
+      "Knead the dough to a slightly firmer consistency than regular roti dough for better texture",
+      "Always use mustard oil for the filling and tempering to maintain authentic Bihari flavor",
+      "Roast vegetables directly over an open flame for the most authentic smoky taste",
+      "The stuffing consistency should be moist but not wet; adjust water gradually while mixing",
+      "Balance the tanginess from lemon juice with the heat from green chilies for perfect flavor",
+      "Serve littis immediately after cooking while they are warm and crispy—they harden as they cool",
+      "The charred skin of roasted vegetables must be peeled off completely for the best texture in chokha",
+      "Traditionally cooked over charcoal or cow dung fire, but oven and stovetop methods work equally well",
+      "For extra flavor, grill cooked littis briefly over an open flame to add charred spots",
+      "Use generous amounts of ghee when serving—it is integral to the authentic experience"
+    ],
+    "isHighProtein": false,
+    "timeOfDay": "lunch"
+}]

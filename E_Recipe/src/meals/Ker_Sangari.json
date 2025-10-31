@@ -1,0 +1,139 @@
+[{
+    "id": "17",
+    "name": "Ker Sangri",
+    "category": "veg",
+    "image": "ker sangri",
+    "prevImage": "",
+    "rating": 4.8,
+    "reviews": 254,
+    "prepTime": "20min",
+    "cookTime": "30min",
+    "calories": 260,
+    "protein": 10,
+    "description": "A traditional Rajasthani dry curry made from dried desert berries (ker) and beans (sangri), cooked with a blend of local spices, yogurt, and oil. It delivers earthy, tangy, and spicy flavors and pairs perfectly with bajra roti or rice.",
+    "ingredients": [
+      {
+        "name": "ker (dried desert berries)",
+        "quantity": "1/2 cup",
+        "priceRange": "60-100",
+        "estimatedPrice": 80
+      },
+      {
+        "name": "sangri (dried beans)",
+        "quantity": "1/2 cup",
+        "priceRange": "60-100",
+        "estimatedPrice": 80
+      },
+      {
+        "name": "curd (yogurt)",
+        "quantity": "1/2 cup",
+        "priceRange": "20-40",
+        "estimatedPrice": 30
+      },
+      {
+        "name": "mustard oil",
+        "quantity": "3 tbsp",
+        "priceRange": "30-50",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "red chili powder",
+        "quantity": "1 tsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "coriander powder",
+        "quantity": "1 tsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "turmeric powder",
+        "quantity": "1/2 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1/2 tsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "amchur powder (dry mango powder)",
+        "quantity": "1 tsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "hing (asafoetida)",
+        "quantity": "a pinch",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "water",
+        "quantity": "1 cup",
+        "priceRange": "0-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "fresh coriander (chopped)",
+        "quantity": "2 tbsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      }
+    ],
+    "preCookingProcess": [
+      "Soak dried ker and sangri separately in water for 6–8 hours or overnight to rehydrate them.",
+      "Boil both ker and sangri in salted water for about 10–12 minutes until tender.",
+      "Drain the water and set aside for cooking."
+    ],
+    "cookingProcess": {
+      "Prepare the masala base": [
+        "Heat mustard oil in a pan until it smokes lightly, then cool slightly.",
+        "Add hing and cumin seeds; let them splutter.",
+        "Add boiled ker and sangri, and sauté for 3–4 minutes."
+      ],
+      "Add spices and curd": [
+        "In a bowl, whisk curd with turmeric, red chili powder, coriander powder, salt, and a little water.",
+        "Add this mixture to the pan and mix well with ker sangri.",
+        "Cook on low flame for 5–7 minutes, stirring occasionally until oil separates."
+      ],
+      "Finish the curry": [
+        "Add amchur powder and garam masala. Stir well and cook for another 2 minutes.",
+        "Turn off heat and let the dish rest to absorb all flavors."
+      ]
+    },
+    "postCookingProcess": [
+      "Garnish with chopped fresh coriander.",
+      "Serve hot with bajra roti, paratha, or steamed rice.",
+      "Drizzle with a few drops of ghee for a richer traditional touch."
+    ],
+    "nutritionClassification": {
+      "protein": "10g per serving",
+      "carbs": "30g per serving",
+      "fats": "9g per serving",
+      "fiber": "8g per serving"
+    },
+    "tipsAndTricks": [
+      "Always soak ker and sangri properly to remove excess salt and sourness.",
+      "Cooking in mustard oil gives authentic flavor.",
+      "Add a little jaggery for a sweet-tangy variation."
+    ],
+    "isHighProtein": true,
+    "timeOfDay": "afternoon"
+}]

@@ -1,0 +1,152 @@
+[{
+    "id": "11",
+    "name": "Butter Chicken Makhani",
+    "category": "non-veg",
+    "image": "butter chicken makhani",
+    "prevImage": "",
+    "rating": 4.7,
+    "reviews": 289,
+    "prepTime": "20min",
+    "cookTime": "40min",
+    "calories": 340,
+    "protein": 16,
+    "description":
+      "A popular North Indian dish rich ,creamy and mild spicy curry made with marinated chicken cooked in a tandoor and simmered in a velvety tomato sauce with butter and cream. Can be served with Roti ,naan or rice",
+    "ingredients": [
+      {
+        "name": "Chicken(boneless)",
+        "quantity": "500g",
+        "priceRange": "100-150",
+        "estimatedPrice": 130
+      },
+      {
+        "name": "tomato puree",
+        "quantity": "1 cup",
+        "priceRange": "20-40",
+        "estimatedPrice": 20
+      },
+      {
+        "name": "cooking oil",
+        "quantity": "1 tbsp",
+        "priceRange": "30-60",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "Garam Masala",
+        "quantity": "1 tbsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 15
+      },
+      {
+        "name": "Yogurt",
+        "quantity": "1 cup",
+        "priceRange": "30-50",
+        "estimatedPrice": 120
+      },
+      {
+        "name": " grated ginger garlic",
+        "quantity": "1 tbsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 100
+      },
+      {
+        "name": "large sliced onion",
+        "quantity": "1",
+        "priceRange": "20-30",
+        "estimatedPrice": 20
+      },
+      {
+        "name": "unsalted butter",
+        "quantity": "4 tbsp",
+        "priceRange": "30-50",
+        "estimatedPrice": 30
+      },
+      {
+        "name": "cashews",
+        "quantity": "1/4 tbsp",
+        "priceRange": "40-60",
+        "estimatedPrice": 50
+      },
+      {
+        "name": "lemon juice",
+        "quantity": "1 tbsp",
+        "priceRange": "10-40",
+        "estimatedPrice": 20
+      },
+      {
+        "name": "heavy cream",
+        "quantity": "1/2 tbsp",
+        "priceRange": "40-50",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "honey",
+        "quantity": "1 tbsp",
+        "priceRange": "40-50",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "kasuri meethi(fenugreek leaves)",
+        "quantity": "1 tbsp",
+        "priceRange": "20-40",
+        "estimatedPrice": 30
+      },
+      {
+        "name": "water",
+        "quantity": "1 cup",
+        "priceRange": "10-20",
+        "estimatedPrice": 12
+      }
+    ],
+    "preCookingProcess": [
+      "Marinate the chicken.",
+      "Combine all the marinade ingredients in a large bowl.",
+      "Add the chicken cubes and mix until every piece is evenly coated.",
+      "Cover and refrigerate for at least one hour for the best flavour."
+    ],
+    "cookingProcess": {
+      "Prepare the sauce base": [
+        "Heat 2 tbsp of butter and 1 tbsp of oil in a large saucepan over medium heat.",
+        "Add the cardamom, cinnamon, and cloves and sauté for 30 seconds until fragrant.",
+        "Stir in the sliced onions and cook for 7–8 minutes until they become soft and lightly golden.",
+        "Add the cashews, ginger, and garlic. Continue to cook for another minute.",
+        "Pour in the tomato purée and add the Kashmiri red chili powder, cumin, coriander, and garam masala. Cook the mixture for 15–20 minutes, stirring occasionally, until the tomatoes are soft and mushy and the butter begins to separate from the sauce."
+      ],
+      "Blend the sauce": [
+        "Remove and discard the whole spices (cinnamon stick, cardamom, cloves) for a smoother texture.",
+        "Allow the mixture to cool slightly before transferring it to a blender.",
+        "Add 1 cup of water and blend until a very smooth, lump-free paste forms."
+      ],
+      "Cook the chicken": [
+        "Heat melt 1 tbsp of butter.",
+        "Place the marinated chicken pieces in a single layer, making sure not to overcrowd the pan.",
+        "Sear the chicken on all sides over medium-high heat until it is lightly browned and just cooked through. This should take 5–7 minutes.",
+        "Set the cooked chicken aside on a plate."
+      ],
+      "Combine and finish the curry": [
+        "Bring the strained tomato sauce to a gentle simmer over medium-low heat.",
+        "Stir in the cooked chicken and allow it to simmer for 5–7 minutes, allowing the chicken to absorb the sauce's flavor.",
+        "Add the remaining butter, the kasuri methi, honey, and heavy cream. Stir gently to combine.",
+        "Simmer for another 2 minutes, but do not boil after adding the cream."
+      ]
+    },
+    "postCookingProcess": [
+      "[3:45 pm, 30/10/2025] +91 72610 30200: Taste and adjust the salt and sugar if necessary",
+      "Serve hot with fluffy basmati rice, naan, or paratha.",
+      "Add a side of kachumber salad (Indian salad) for a fresh contrast."
+    ],
+    "nutritionClassification": {
+      "protein": "16g per serving",
+      "carbs": "48g per serving",
+      "fats": "6g per serving",
+      "fiber": "14g per serving"
+    },
+    "tipsAndTricks": [
+      "Rajma must be very soft for best curry",
+      "Slow cooking enhances flavors",
+      "Add a pinch of sugar to balance acidity"
+    ],
+    "isHighProtein": true,
+    "timeOfDay": "afternoon"
+}
+]

@@ -1,0 +1,149 @@
+[{
+    "id": "14",
+    "name": "Dhokla",
+    "category": "veg",
+    "image": "dhokla",
+    "prevImage": "",
+    "rating": 4.8,
+    "reviews": 347,
+    "prepTime": "20min",
+    "cookTime": "25min",
+    "calories": 180,
+    "protein": 8,
+    "description": "A soft and spongy steamed snack from Gujarat made with fermented chickpea flour (besan) and gently seasoned with mustard seeds, curry leaves, and green chilies. Light, fluffy, and mildly tangy—perfect for breakfast or tea time.",
+    "ingredients": [
+      {
+        "name": "besan (gram flour)",
+        "quantity": "1 cup",
+        "priceRange": "30-50",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "semolina (rava / sooji)",
+        "quantity": "2 tbsp",
+        "priceRange": "20-40",
+        "estimatedPrice": 25
+      },
+      {
+        "name": "yogurt (curd)",
+        "quantity": "1/2 cup",
+        "priceRange": "20-40",
+        "estimatedPrice": 30
+      },
+      {
+        "name": "water",
+        "quantity": "1/2 cup",
+        "priceRange": "0-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "ginger-green chili paste",
+        "quantity": "1 tsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "lemon juice",
+        "quantity": "1 tbsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 15
+      },
+      {
+        "name": "eno fruit salt (or baking soda)",
+        "quantity": "1 tsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "mustard seeds",
+        "quantity": "1 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "curry leaves",
+        "quantity": "8-10 leaves",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "green chilies (slit)",
+        "quantity": "2",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "sugar",
+        "quantity": "1 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "oil",
+        "quantity": "2 tbsp",
+        "priceRange": "30-50",
+        "estimatedPrice": 35
+      },
+      {
+        "name": "fresh coriander (chopped)",
+        "quantity": "1 tbsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "grated coconut (optional)",
+        "quantity": "1 tbsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      }
+    ],
+    "preCookingProcess": [
+      "In a large bowl, combine besan, semolina, salt, yogurt, and water.",
+      "Whisk into a smooth batter without lumps and allow to rest for 10–15 minutes for mild fermentation.",
+      "Grease a steaming dish or thali with a light layer of oil."
+    ],
+    "cookingProcess": {
+      "Prepare the batter": [
+        "Add ginger-green chili paste and lemon juice to the rested batter.",
+        "Just before steaming, add eno fruit salt and stir gently in one direction. The batter will turn frothy."
+      ],
+      "Steam the dhokla": [
+        "Pour the batter immediately into the greased dish and place it in a steamer.",
+        "Steam on medium heat for about 15–20 minutes until a toothpick inserted in the center comes out clean.",
+        "Remove from steamer and let it cool slightly before cutting into squares."
+      ],
+      "Prepare the tempering (tadka)": [
+        "Heat 2 tbsp oil in a small pan, add mustard seeds and let them splutter.",
+        "Add curry leaves, slit green chilies, sugar, and 2 tbsp water.",
+        "Boil for a few seconds and then pour the tempering evenly over the dhokla pieces."
+      ],
+      "Serve": [
+        "Garnish with chopped coriander and grated coconut.",
+        "Serve warm with green chutney or tamarind chutney."
+      ]
+    },
+    "postCookingProcess": [
+      "Let the dhokla rest for 5 minutes to absorb the tempering.",
+      "Store leftovers in an airtight box; reheat in a steamer before serving.",
+      "Best enjoyed fresh with a hot cup of tea."
+    ],
+    "nutritionClassification": {
+      "protein": "8g per serving",
+      "carbs": "28g per serving",
+      "fats": "6g per serving",
+      "fiber": "4g per serving"
+    },
+    "tipsAndTricks": [
+      "Avoid overmixing after adding eno; it can make the dhokla dense.",
+      "Use fresh curd for the best tangy flavor.",
+      "Always steam on medium heat for even fluffiness."
+    ],
+    "isHighProtein": false,
+    "timeOfDay": "morning"
+}]

@@ -1,0 +1,139 @@
+[{
+    "id": "13",
+    "name": "Sattu Paratha",
+    "category": "veg",
+    "image": "sattu paratha",
+    "prevImage": "",
+    "rating": 4.6,
+    "reviews": 264,
+    "prepTime": "25min",
+    "cookTime": "30min",
+    "calories": 300,
+    "protein": 14,
+    "description": "A nutritious and flavorful stuffed paratha from Bihar made with roasted gram flour (sattu), spices, and herbs, enclosed in a whole wheat dough and shallow fried on a tawa. Commonly served with curd, pickle, and onions.",
+    "ingredients": [
+      {
+        "name": "whole wheat flour",
+        "quantity": "2 cups",
+        "priceRange": "30-60",
+        "estimatedPrice": 50
+      },
+      {
+        "name": "sattu (roasted gram flour)",
+        "quantity": "1 cup",
+        "priceRange": "40-70",
+        "estimatedPrice": 60
+      },
+      {
+        "name": "onion (finely chopped)",
+        "quantity": "1 medium",
+        "priceRange": "10-20",
+        "estimatedPrice": 15
+      },
+      {
+        "name": "garlic (finely chopped)",
+        "quantity": "4 cloves",
+        "priceRange": "10-15",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "green chili (finely chopped)",
+        "quantity": "1",
+        "priceRange": "5-10",
+        "estimatedPrice": 8
+      },
+      {
+        "name": "ajwain (carom seeds)",
+        "quantity": "1/2 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "lemon juice",
+        "quantity": "1 tbsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 15
+      },
+      {
+        "name": "mustard oil",
+        "quantity": "2 tbsp",
+        "priceRange": "20-40",
+        "estimatedPrice": 30
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "black salt",
+        "quantity": "1/4 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "amchur powder (dry mango powder)",
+        "quantity": "1 tsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "coriander leaves (chopped)",
+        "quantity": "2 tbsp",
+        "priceRange": "10-15",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "water",
+        "quantity": "1 cup (for dough)",
+        "priceRange": "0-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "ghee or oil (for roasting)",
+        "quantity": "as required",
+        "priceRange": "30-50",
+        "estimatedPrice": 35
+      }
+    ],
+    "preCookingProcess": [
+      "Mix whole wheat flour with a pinch of salt in a bowl.",
+      "Add enough water gradually to knead a soft yet firm dough.",
+      "Cover the dough with a damp cloth and let it rest for 10–15 minutes."
+    ],
+    "cookingProcess": {
+      "Prepare the stuffing": [
+        "In a mixing bowl, combine sattu, chopped onions, garlic, green chili, ajwain, black salt, amchur powder, salt, lemon juice, and 1 tbsp mustard oil.",
+        "Mix well using clean hands until the mixture is evenly moist but not sticky. Add a spoon of water only if too dry."
+      ],
+      "Stuff and roll the paratha": [
+        "Divide the dough into equal lemon-sized portions.",
+        "Roll one ball into a small disc, place 2 tbsp of sattu mixture in the center, and seal the edges properly.",
+        "Flatten gently and roll again into a medium-sized paratha dusting with flour."
+      ],
+      "Cook the paratha": [
+        "Heat a tawa on medium flame and place the rolled paratha on it.",
+        "Cook on one side until bubbles appear, flip and apply ghee or oil, then cook the other side until golden brown spots form.",
+        "Repeat for all parathas."
+      ]
+    },
+    "postCookingProcess": [
+      "Serve hot Sattu Paratha with curd, pickle, and sliced onions.",
+      "Optional: add a dollop of ghee for authentic Bihari flavor.",
+      "Best enjoyed fresh during breakfast or lunch."
+    ],
+    "nutritionClassification": {
+      "protein": "14g per serving",
+      "carbs": "42g per serving",
+      "fats": "10g per serving",
+      "fiber": "8g per serving"
+    },
+    "tipsAndTricks": [
+      "Do not make the stuffing too wet as it can break the paratha.",
+      "Use mustard oil for authentic taste.",
+      "Knead the dough slightly firm for better rolling and texture."
+    ],
+    "isHighProtein": true,
+    "timeOfDay": "morning"
+}]

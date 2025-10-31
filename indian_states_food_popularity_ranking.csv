@@ -1,0 +1,34 @@
+Rank,State/Region,Category,Global Ranking,Signature Dishes,Signature Beverages,Popularity Score,Key Recognition
+1,Punjab,Most Popular,7th (TasteAtlas),"Butter Chicken, Amritsari Kulcha, Tandoori Murgh, Sarson da Saag, Makki di Roti","Lassi, Mango Lassi",95,"Highest-ranked Indian region globally, International fame"
+2,Maharashtra,Most Popular,41st (TasteAtlas),"Vada Pav, Pav Bhaji, Misal Pav, Puran Poli, Modak",Kokum Sharbat,92,Mumbai ranked 5th best food city globally
+3,Delhi,Most Popular,45th (TasteAtlas),"Chole Bhature, Butter Chicken, Parathas, Kebabs, Chaat",Masala Chai,90,"Food capital of India, Street food paradise"
+4,"South India (Tamil Nadu, Kerala, Karnataka, Andhra, Telangana)",Most Popular,26th & 59th (TasteAtlas),"Dosa, Idli, Hyderabadi Biryani, Sambar, Appam, Chettinad Chicken","Filter Coffee, Neera",90,"Hyderabad (50th), Chennai (75th) in global city rankings"
+5,West Bengal,Most Popular,54th (TasteAtlas),"Rasgulla, Mishti Doi, Macher Jhol, Shorshe Ilish, Sandesh",Cholai (rice beer),88,"Kolkata ranked 71st globally, Famous for sweets"
+6,Goa,Most Popular,High National Recognition,"Vindaloo, Fish Curry, Bebinca, Prawn Balchão, Xacuti",Fenny,85,"Portuguese-Indian fusion, International tourist appeal"
+7,Gujarat,Most Popular,High National Recognition,"Dhokla, Khandvi, Thepla, Handvo, Fafda-Jalebi","Pannah (Aam Panna), Chaas",83,"Vegetarian paradise, Sweet-savory balance"
+8,Rajasthan,Most Popular,High National Recognition,"Dal Baati Churma, Laal Maas, Gatte ki Sabzi, Ker Sangari",Kesar Kasturi,82,"Royal heritage cuisine, Rich flavors"
+9,Kerala,Moderately Popular,National Recognition,"Appam with Stew, Kerala Sadya, Fish Moilee, Puttu-Kadala, Karimeen",Kallu (Toddy),80,"Coastal flavors, Coconut-based cuisine"
+10,Uttar Pradesh,Moderately Popular,National Recognition,"Awadhi Biryani, Kebabs, Tunday Kababi, Baigan ki Longe, Lucknowi Korma",Thandai,78,"Nawabi cuisine, Lucknow culinary heritage"
+11,Tamil Nadu,Moderately Popular,National Recognition,"Chettinad Chicken, Pongal, Idli, Sambar, Dosai","Filter Coffee, Jigarthanda",77,"Chennai ranked 75th globally, Temple cuisine"
+12,Andhra Pradesh,Moderately Popular,National Recognition,"Pulihora, Gongura Pachadi, Hyderabadi Biryani, Andhra Chicken Curry",Buttermilk,76,Spiciest cuisine in India
+13,Karnataka,Moderately Popular,National Recognition,"Bisi Bele Bath, Mysore Pak, Dosa variations, Dharwad Pedha",Filter Coffee,75,"Diverse regional sub-cuisines, Udupi cuisine fame"
+14,Bihar,Moderately Popular,Regional Recognition,"Litti Chokha, Sattu Paratha, Thekua, Khaja",Sattu Sharbat,72,"Rustic flavors, Traditional recipes"
+15,Odisha,Moderately Popular,Regional Recognition,"Chhena Poda, Rasgulla, Dalma, Pakhala Bhata",Mandia Pej,70,"Temple offerings, Underrated Eastern cuisine"
+16,Assam,Moderately Popular,Regional Recognition,"Masor Tenga, Pitha, Khar, Assam Laksa","Xaj (rice beer), Assam Tea",68,"Tea heritage, Northeastern flavors"
+17,Jammu & Kashmir,Less Popular,Limited Recognition,"Rogan Josh, Gustaba, Dum Aloo, Haak","Noon Chai (Pink Tea), Kahwah",68,"Kashmiri Wazwan, Regional specialty"
+18,Haryana,Moderately Popular,Regional Recognition,"Bajre ki Khichdi, Kachri ki Sabzi, Bhutte ka Kees",Chaach (Buttermilk),65,Rural traditional cuisine
+19,Madhya Pradesh,Less Popular,Limited Recognition,"Poha, Bhutte ki Khees, Dal Bafla, Mawa Bati",Handia,60,Central Indian flavors
+20,Himachal Pradesh,Less Popular,Limited Recognition,"Sidu, Dham, Aktori, Babru, Madra",Kinnaur Ghanti (apple wine),58,"Mountain cuisine, Festival specialties"
+21,Uttarakhand,Less Popular,Limited Recognition,"Aloo ke Gutke, Chainsoo, Kafuli, Bal Mithai",Buransh (Rhododendron drink),55,"Kumaoni/Garhwali cuisine, Lesser-known hill food"
+22,Sikkim,Less Popular,Limited Recognition,"Momos, Thukpa, Gundruk, Phagshapa, Sel Roti",Chaang (millet beer),54,Himalayan-Tibetan influence
+23,Jharkhand,Less Popular,Limited Recognition,"Thekua, Dhuska, Litti Chokha, Pittha, Dehrori",Handia (rice beer),52,Tribal cuisine influence
+24,Chhattisgarh,Less Popular,Limited Recognition,"Bafauri, Dehori, Chana Samosa, Red Ant Chutney",Mahua (local liquor),48,"Tribal delicacies, Unique ingredients"
+25,Puducherry,Least Popular,Niche Recognition,"Kadugu Yerra, Vendakkai Patchaddy, French-Tamil fusion",Filter Coffee,42,French colonial influence
+26,Ladakh,Least Popular,Niche Recognition,"Thukpa, Skew, Tigmo, Khambir, Momos",Butter Tea,40,"High-altitude cuisine, Tibetan influence"
+27,Andaman & Nicobar,Least Popular,Niche Recognition,"Seafood (Fish, Lobsters, Prawns, Crabs)",Coconut water,38,Island seafood cuisine
+28,Arunachal Pradesh,Least Popular,Niche Recognition,"Thukpa, Pehak, Bamboo Shoot Curry, Kholam",Apo (rice beer),35,"Tribal cuisine, Least explored"
+29,Meghalaya,Least Popular,Niche Recognition,"Jadoh, Dohneiiong, Nakham Bitchi",Kyat (local beer),33,Khasi tribal cuisine
+30,Nagaland,Least Popular,Niche Recognition,"Smoked Pork, Axone (fermented soybean), Bamboo Shoot",Zutho (rice beer),32,"Strong fermented flavors, Acquired taste"
+31,Manipur,Least Popular,Niche Recognition,"Iromba, Eromba, Singju, Chamthong",Yu (rice wine),30,"Fermented fish dishes, Very niche"
+32,Mizoram,Least Popular,Niche Recognition,"Bai, Sawhchiar, Vawksa Rep",Zawlaidi (special tea),28,Northeast tribal cuisine
+33,Tripura,Least Popular,Niche Recognition,"Chakhwi, Mwkhwi, Gudok, Lairu (rice cake)",Traditional tea,27,Minimal national exposure

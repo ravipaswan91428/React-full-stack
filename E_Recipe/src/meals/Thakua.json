@@ -1,0 +1,107 @@
+[{
+  "id": "12",
+  "name": "Thakua",
+  "category": "sweet",
+  "image": "thakua",
+  "prevImage": "",
+  "rating": 4.8,
+  "reviews": 354,
+  "prepTime": "15min",
+  "cookTime": "30min",
+  "calories": 210,
+  "protein": 4,
+  "description":
+    "A traditional sweet from Bihar, mainly prepared as a sacred offering during Chhath Puja. Thakua is a deep-fried biscuit-like sweet made from wheat flour, jaggery, ghee, and flavored with cardamom and coconut. It is crisp on the outside and slightly soft inside, enjoyed as a festive prasad.",
+  "ingredients": [
+    {
+      "name": "wheat flour",
+      "quantity": "2 cups",
+      "priceRange": "40-60",
+      "estimatedPrice": 50
+    },
+    {
+      "name": "jaggery (gur)",
+      "quantity": "1 cup",
+      "priceRange": "40-80",
+      "estimatedPrice": 70
+    },
+    {
+      "name": "grated coconut",
+      "quantity": "1/4 cup",
+      "priceRange": "20-40",
+      "estimatedPrice": 30
+    },
+    {
+      "name": "cardamom powder",
+      "quantity": "1 tsp",
+      "priceRange": "10-20",
+      "estimatedPrice": 15
+    },
+    {
+      "name": "ghee (clarified butter)",
+      "quantity": "3 tbsp",
+      "priceRange": "30-70",
+      "estimatedPrice": 50
+    },
+    {
+      "name": "water or milk",
+      "quantity": "as needed (approx 1/4 cup)",
+      "priceRange": "10-20",
+      "estimatedPrice": 10
+    },
+    {
+      "name": "fennel seeds (saunf)",
+      "quantity": "1 tsp",
+      "priceRange": "10-20",
+      "estimatedPrice": 12
+    },
+    {
+      "name": "oil (for frying)",
+      "quantity": "2 cups",
+      "priceRange": "100-150",
+      "estimatedPrice": 120
+    }
+  ],
+  "preCookingProcess": [
+    "Grate or crush the jaggery into small pieces.",
+    "In a small pan, add water and melt the jaggery on low heat until it dissolves completely.",
+    "Strain the jaggery syrup to remove impurities and let it cool to room temperature."
+  ],
+  "cookingProcess": {
+    "Prepare the dough": [
+      "In a large mixing bowl, combine wheat flour, grated coconut, fennel seeds, and cardamom powder.",
+      "Add melted ghee and mix well using your hands until it forms a crumbly texture.",
+      "Gradually pour in the cooled jaggery syrup, mixing until a firm, smooth dough forms.",
+      "Cover and rest the dough for 10-15 minutes."
+    ],
+    "Shape the thakua": [
+      "Take small portions of dough and roll into balls.",
+      "Flatten each ball slightly using your palms or a rolling pin.",
+      "You can imprint traditional patterns using a fork or a mold."
+    ],
+    "Fry the thakua": [
+      "Heat oil or ghee in a deep frying pan over medium flame.",
+      "Gently slide 3-4 pieces into the oil at a time.",
+      "Fry until golden brown on both sides, turning occasionally to ensure even cooking.",
+      "Remove and drain on paper towels."
+    ]
+  },
+  "postCookingProcess": [
+    "Allow the thakua to cool completely before storing.",
+    "Store in an airtight container — stays fresh for up to 10 days.",
+    "Offer to the Sun God (Surya Dev) as prasad during Chhath Puja and share with family."
+  ],
+  "nutritionClassification": {
+    "protein": "4g per serving",
+    "carbs": "36g per serving",
+    "fats": "8g per serving",
+    "fiber": "3g per serving"
+  },
+  "tipsAndTricks": [
+    "Do not overheat the oil — thakua should cook slowly for even color.",
+    "You can add crushed dry fruits for extra flavor.",
+    "Use jaggery syrup at room temperature; hot syrup can make the dough sticky."
+  ],
+  "isHighProtein": false,
+  "timeOfDay": "morning"
+}]

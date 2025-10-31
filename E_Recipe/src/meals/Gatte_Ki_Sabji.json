@@ -1,0 +1,141 @@
+[{
+    "id": "16",
+    "name": "Gatte Ki Sabzi",
+    "category": "veg",
+    "image": "gatte ki sabzi",
+    "prevImage": "",
+    "rating": 4.8,
+    "reviews": 298,
+    "prepTime": "25min",
+    "cookTime": "35min",
+    "calories": 280,
+    "protein": 13,
+    "description": "A Rajasthani delicacy made from gram flour (besan) dumplings, steamed and simmered in a spiced yogurt-based gravy. It is rich, tangy, and aromatic, best enjoyed with hot puris, roti, or steamed rice.",
+    "ingredients": [
+      {
+        "name": "besan (gram flour)",
+        "quantity": "1 cup",
+        "priceRange": "30-50",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "curd (yogurt)",
+        "quantity": "1 cup",
+        "priceRange": "20-40",
+        "estimatedPrice": 30
+      },
+      {
+        "name": "red chili powder",
+        "quantity": "1 tsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "turmeric powder",
+        "quantity": "1/2 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "coriander powder",
+        "quantity": "1 tsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "hing (asafoetida)",
+        "quantity": "a pinch",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "oil",
+        "quantity": "3 tbsp",
+        "priceRange": "30-50",
+        "estimatedPrice": 35
+      },
+      {
+        "name": "ginger paste",
+        "quantity": "1 tsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "green chilies (slit)",
+        "quantity": "2",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "garam masala",
+        "quantity": "1 tsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "water",
+        "quantity": "2 cups",
+        "priceRange": "0-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "fresh coriander (chopped)",
+        "quantity": "2 tbsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      }
+    ],
+    "preCookingProcess": [
+      "In a bowl, mix besan, salt, a pinch of turmeric, red chili powder, and 1 tbsp oil.",
+      "Add small amounts of water gradually to make a semi-stiff dough.",
+      "Divide into small portions and roll into long cylindrical logs (gatte).",
+      "Boil water in a pan and add these logs. Cook for 8–10 minutes until firm.",
+      "Drain and cut the steamed gatte into small round pieces."
+    ],
+    "cookingProcess": {
+      "Prepare the yogurt gravy": [
+        "In a bowl, whisk curd with 1 cup water, turmeric, coriander powder, and 1 tsp besan to prevent curdling. Set aside.",
+        "Heat oil in a pan, add cumin seeds and hing. Allow to splutter.",
+        "Add ginger paste and green chilies; sauté for 30 seconds."
+      ],
+      "Add spices and curd mix": [
+        "Add red chili powder and stir quickly, then mix in the whisked curd mixture while stirring continuously.",
+        "Simmer on medium heat for 3–4 minutes until the gravy thickens slightly."
+      ],
+      "Add and cook the gatte": [
+        "Add the sliced gatte pieces into the gravy.",
+        "Simmer for another 7–8 minutes so that the gatte absorb the flavors.",
+        "Finish with a sprinkle of garam masala and chopped coriander."
+      ]
+    },
+    "postCookingProcess": [
+      "Allow the sabzi to rest for 5 minutes before serving to enhance flavor.",
+      "Garnish with more coriander and serve hot with roti or steamed rice.",
+      "Add a dollop of ghee on top while serving for authentic Rajasthani taste."
+    ],
+    "nutritionClassification": {
+      "protein": "13g per serving",
+      "carbs": "32g per serving",
+      "fats": "10g per serving",
+      "fiber": "6g per serving"
+    },
+    "tipsAndTricks": [
+      "Ensure the curd is whisked well to avoid splitting.",
+      "Do not overcook gatte while boiling; they should stay firm.",
+      "For richer flavor, shallow fry the steamed gatte before adding to the gravy."
+    ],
+    "isHighProtein": true,
+    "timeOfDay": "afternoon"
+}]

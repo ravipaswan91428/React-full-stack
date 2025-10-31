@@ -1,0 +1,462 @@
+[{
+  "name": "Vegetable Pulao",
+  "category": "Veg",
+  "prepTime": "15min",
+  "cookTime": "25min",
+  "description": "A fragrant rice dish cooked with mixed vegetables and whole spices. A quick and wholesome meal.",
+  "ingredients": [
+    { "name": "Basmati Rice", "quantity": "1 cup", "priceRange": "₹40-60", "estimatedPrice": 50 },
+    { "name": "Mixed Vegetables", "quantity": "2 cups", "priceRange": "₹30-50", "estimatedPrice": 40 },
+    { "name": "Onions", "quantity": "1 medium", "priceRange": "₹10-20", "estimatedPrice": 15 },
+    { "name": "Whole Spices", "quantity": "Mixed", "priceRange": "₹20-30", "estimatedPrice": 25 },
+    { "name": "Ghee", "quantity": "2 tbsp", "priceRange": "₹20-30", "estimatedPrice": 25 }
+  ],
+  "preCookingProcess": [
+    "Wash and soak rice for 20 minutes",
+    "Chop vegetables and slice onions"
+  ],
+  "cookingProcess": [
+    "Sauté spices and onions in ghee",
+    "Add vegetables and cook for 5 minutes",
+    "Add rice and water, cook until done"
+  ],
+  "postCookingProcess": [
+    "Fluff rice and let it rest for 5 minutes",
+    "Serve hot with raita or pickle"
+  ],
+  "nutritionClassification": {
+    "protein": "6g per serving",
+    "carbs": "45g per serving",
+    "fats": "12g per serving",
+    "fiber": "4g per serving",
+    "calories": "320 per serving"
+  },
+  "tipsAndTricks": [
+    "Use aged basmati rice for better texture",
+    "Add a few drops of lemon juice to keep rice grains separate"
+  ],
+  "isHighProtein": false,
+  "timeOfDay": "afternoon"
+},
+{
+  "name": "Tofu Stir-Fry Quinoa Bowl",
+  "category": "Veg",
+  "prepTime": "15min",
+  "cookTime": "20min",
+  "description": "A wholesome, protein-rich vegetarian dinner featuring grilled tofu, quinoa, and colorful stir-fried vegetables. Ideal for post-workout recovery and lean muscle support.",
+  "ingredients": [
+    { "name": "Firm Tofu", "quantity": "200g", "priceRange": "₹60-90", "estimatedPrice": 75 },
+    { "name": "Quinoa", "quantity": "1/2 cup", "priceRange": "₹80-120", "estimatedPrice": 100 },
+    { "name": "Bell Peppers", "quantity": "1 cup", "priceRange": "₹20-30", "estimatedPrice": 25 },
+    { "name": "Broccoli", "quantity": "1 cup", "priceRange": "₹20-30", "estimatedPrice": 25 },
+    { "name": "Olive Oil", "quantity": "1 tbsp", "priceRange": "₹30-50", "estimatedPrice": 40 },
+    { "name": "Soy Sauce", "quantity": "1 tbsp", "priceRange": "₹10-20", "estimatedPrice": 15 }
+  ],
+  "preCookingProcess": [
+    "Press tofu to remove excess water and cut into cubes",
+    "Rinse and cook quinoa until fluffy",
+    "Chop bell peppers and broccoli into bite-sized pieces"
+  ],
+  "cookingProcess": [
+    "Sauté tofu in olive oil until golden and crisp",
+    "Stir-fry vegetables in the same pan with soy sauce",
+    "Combine quinoa, tofu, and veggies in a bowl"
+  ],
+  "postCookingProcess": [
+    "Garnish with sesame seeds or lemon juice",
+    "Serve warm with a side of yogurt or hummus"
+  ],
+  "nutritionClassification": {
+    "protein": "32g per bowl",
+    "carbs": "38g per bowl",
+    "fats": "14g per bowl",
+    "fiber": "6g per bowl",
+    "calories": "420 per bowl"
+  },
+  "tipsAndTricks": [
+    "Use extra-firm tofu for better texture",
+    "Add spinach or edamame for extra protein boost"
+  ],
+  "isHighProtein": true,
+  "timeOfDay": "night"
+},
+{
+  "name": "Paneer Roll",
+  "category": "Veg",
+  "prepTime": "20min",
+  "cookTime": "25min",
+  "description": "A popular Indian street food wrap made with spiced paneer cubes, sautéed veggies, and tangy chutneys rolled in a flaky paratha.",
+  "ingredients": [
+    { "name": "Paneer", "quantity": "200g", "priceRange": "₹50-80", "estimatedPrice": 65 },
+    { "name": "Capsicum", "quantity": "1 medium", "priceRange": "₹10-20", "estimatedPrice": 15 },
+    { "name": "Onion", "quantity": "1 medium", "priceRange": "₹10-15", "estimatedPrice": 12 },
+    { "name": "Paratha", "quantity": "2", "priceRange": "₹20-30", "estimatedPrice": 25 },
+    { "name": "Mint Chutney", "quantity": "2 tbsp", "priceRange": "₹10-20", "estimatedPrice": 15 },
+    { "name": "Spices", "quantity": "Mixed", "priceRange": "₹10-20", "estimatedPrice": 15 }
+  ],
+  "preCookingProcess": [
+    "Cut paneer into strips and marinate with spices",
+    "Slice onions and capsicum",
+    "Prepare mint chutney or use store-bought"
+  ],
+  "cookingProcess": [
+    "Sauté paneer and veggies until golden",
+    "Warm parathas on tawa",
+    "Spread chutney, add filling, and roll tightly"
+  ],
+  "postCookingProcess": [
+    "Wrap in foil or parchment for easy handling",
+    "Serve hot with ketchup or yogurt dip"
+  ],
+  "nutritionClassification": {
+    "protein": "18g per roll",
+    "carbs": "30g per roll",
+    "fats": "20g per roll",
+    "fiber": "4g per roll",
+    "calories": "380 per roll"
+  },
+  "tipsAndTricks": [
+    "Use whole wheat paratha for healthier version",
+    "Add lemon juice for extra zing"
+  ],
+  "isHighProtein": true,
+  "timeOfDay": "evening"
+},
+{
+  "name": "Masala Dosa",
+  "category": "Breakfast",
+  "prepTime": "8hr (batter fermentation)",
+  "cookTime": "30min",
+  "description": "A crispy fermented rice-lentil crepe filled with spiced potato filling. A South Indian breakfast classic.",
+  "ingredients": [
+    { "name": "Rice", "quantity": "2 cups", "priceRange": "₹30-50", "estimatedPrice": 40 },
+    { "name": "Urad Dal", "quantity": "1 cup", "priceRange": "₹40-60", "estimatedPrice": 50 },
+    { "name": "Potatoes", "quantity": "3 medium", "priceRange": "₹20-30", "estimatedPrice": 25 },
+    { "name": "Onions", "quantity": "2 medium", "priceRange": "₹15-25", "estimatedPrice": 20 },
+    { "name": "Mustard Seeds", "quantity": "1 tsp", "priceRange": "₹5-10", "estimatedPrice": 8 },
+    { "name": "Curry Leaves", "quantity": "10 leaves", "priceRange": "₹5-10", "estimatedPrice": 7 }
+  ],
+  "preCookingProcess": [
+    "Soak rice and urad dal separately for 6 hours",
+    "Grind and ferment batter overnight",
+    "Boil and mash potatoes",
+    "Slice onions and prepare tempering ingredients"
+  ],
+  "cookingProcess": [
+    "Prepare potato filling with mustard seeds, onions, turmeric, and curry leaves",
+    "Heat dosa pan and spread batter thinly",
+    "Cook until crisp and place filling in center",
+    "Fold and serve hot"
+  ],
+  "postCookingProcess": [
+    "Serve with coconut chutney and sambar",
+    "Optional: drizzle ghee for extra flavor"
+  ],
+  "nutritionClassification": {
+    "protein": "10g per serving",
+    "carbs": "45g per serving",
+    "fats": "12g per serving",
+    "fiber": "5g per serving",
+    "calories": "320 per serving"
+  },
+  "tipsAndTricks": [
+    "Fermentation time depends on climate—keep in warm place",
+    "Use cast iron pan for crispier dosa"
+  ],
+  "isHighProtein": false,
+  "timeOfDay": "morning"
+},
+{
+  "name": "Healthy Burger",
+  "category": "Other",
+  "prepTime": "15min",
+  "cookTime": "15min",
+  "description": "A high-protein, low-calorie burger made with lean chicken, whole wheat buns, and fresh veggies. Perfect for fitness-focused meals.",
+  "ingredients": [
+    { "name": "Lean Ground Chicken", "quantity": "200g", "priceRange": "₹100-150", "estimatedPrice": 120 },
+    { "name": "Whole Wheat Bun", "quantity": "2", "priceRange": "₹20-30", "estimatedPrice": 25 },
+    { "name": "Lettuce", "quantity": "4 leaves", "priceRange": "₹10-20", "estimatedPrice": 15 },
+    { "name": "Tomato", "quantity": "1 medium", "priceRange": "₹10-15", "estimatedPrice": 12 },
+    { "name": "Low-fat Cheese", "quantity": "1 slice", "priceRange": "₹20-30", "estimatedPrice": 25 },
+    { "name": "Greek Yogurt Sauce", "quantity": "2 tbsp", "priceRange": "₹20-30", "estimatedPrice": 25 }
+  ],
+  "preCookingProcess": [
+    "Mix ground chicken with salt, pepper, and garlic powder",
+    "Shape into patties and chill for 10 minutes",
+    "Slice tomato and wash lettuce"
+  ],
+  "cookingProcess": [
+    "Grill or pan-fry patties until golden and cooked through",
+    "Toast buns lightly",
+    "Assemble burger with lettuce, tomato, patty, cheese, and yogurt sauce"
+  ],
+  "postCookingProcess": [
+    "Serve immediately with a side of salad or baked sweet potato fries"
+  ],
+  "nutritionClassification": {
+    "protein": "35g per burger",
+    "carbs": "28g per burger",
+    "fats": "12g per burger",
+    "fiber": "4g per burger",
+    "calories": "390 per burger"
+  },
+  "tipsAndTricks": [
+    "Use Greek yogurt instead of mayo for lower fat",
+    "Add spinach or avocado for extra nutrients"
+  ],
+  "isHighProtein": true,
+  "timeOfDay": "evening"
+}
+,
+{
+  "name": "Grilled Chicken Quinoa Bowl",
+  "category": "Non-Veg",
+  "prepTime": "15min",
+  "cookTime": "25min",
+  "description": "A balanced dinner bowl with grilled chicken breast, quinoa, and sautéed vegetables. Ideal for post-workout recovery and lean muscle building.",
+  "ingredients": [
+    { "name": "Chicken Breast", "quantity": "200g", "priceRange": "₹100-150", "estimatedPrice": 130 },
+    { "name": "Quinoa", "quantity": "1/2 cup", "priceRange": "₹80-120", "estimatedPrice": 100 },
+    { "name": "Bell Peppers", "quantity": "1 cup", "priceRange": "₹20-30", "estimatedPrice": 25 },
+    { "name": "Olive Oil", "quantity": "1 tbsp", "priceRange": "₹30-50", "estimatedPrice": 40 },
+    { "name": "Garlic", "quantity": "2 cloves", "priceRange": "₹5-10", "estimatedPrice": 8 }
+  ],
+  "preCookingProcess": [
+    "Marinate chicken with garlic, lemon, and herbs",
+    "Rinse and boil quinoa until fluffy",
+    "Chop vegetables for sautéing"
+  ],
+  "cookingProcess": [
+    "Grill chicken until cooked through",
+    "Sauté vegetables in olive oil",
+    "Assemble bowl with quinoa, veggies, and sliced chicken"
+  ],
+  "postCookingProcess": [
+    "Drizzle lemon juice or yogurt dressing",
+    "Serve warm or chilled"
+  ],
+  "nutritionClassification": {
+    "protein": "42g per bowl",
+    "carbs": "35g per bowl",
+    "fats": "10g per bowl",
+    "fiber": "6g per bowl",
+    "calories": "420 per bowl"
+  },
+  "tipsAndTricks": [
+    "Use Greek yogurt dressing for extra protein",
+    "Add boiled eggs or tofu for variety"
+  ],
+  "isHighProtein": true,
+  "timeOfDay": "night"
+},
+
+{
+  "name": "Fish Curry",
+  "category": "Non-Veg",
+  "prepTime": "15min",
+  "cookTime": "30min",
+  "description": "A tangy and spicy coastal-style fish curry made with tamarind, coconut, and aromatic spices.",
+  "ingredients": [
+    { "name": "Fish (Rohu or Pomfret)", "quantity": "500g", "priceRange": "₹200-300", "estimatedPrice": 250 },
+    { "name": "Coconut Milk", "quantity": "1 cup", "priceRange": "₹30-50", "estimatedPrice": 40 },
+    { "name": "Tamarind", "quantity": "1 tbsp", "priceRange": "₹10-20", "estimatedPrice": 15 },
+    { "name": "Onions", "quantity": "2 medium", "priceRange": "₹15-25", "estimatedPrice": 20 },
+    { "name": "Spices", "quantity": "Mixed", "priceRange": "₹20-40", "estimatedPrice": 30 }
+  ],
+  "preCookingProcess": [
+    "Clean and cut fish into pieces",
+    "Soak tamarind in warm water",
+    "Slice onions and prepare spice mix"
+  ],
+  "cookingProcess": [
+    "Sauté onions and spices until golden",
+    "Add tamarind water and coconut milk",
+    "Add fish and simmer for 15 minutes"
+  ],
+  "postCookingProcess": [
+    "Garnish with coriander",
+    "Serve hot with steamed rice"
+  ],
+  "nutritionClassification": {
+    "protein": "25g per serving",
+    "carbs": "10g per serving",
+    "fats": "20g per serving",
+    "fiber": "2g per serving",
+    "calories": "400 per serving"
+  },
+  "tipsAndTricks": [
+    "Use firm fish to avoid breaking during cooking",
+    "Don’t overcook fish—it becomes rubbery"
+  ],
+  "isHighProtein": true,
+  "timeOfDay": "afternoon"
+},
+{
+  "name": "Indian Chicken Tacos",
+  "category": "Non-Veg",
+  "prepTime": "20min",
+  "cookTime": "20min",
+  "description": "Fusion-style tacos with spiced chicken, mint chutney, and raita wrapped in soft rotis or tortillas. A bold Indian twist on a Mexican classic.",
+  "ingredients": [
+    { "name": "Chicken Mince", "quantity": "250g", "priceRange": "₹100-150", "estimatedPrice": 130 },
+    { "name": "Roti or Tortilla", "quantity": "4", "priceRange": "₹30-50", "estimatedPrice": 40 },
+    { "name": "Mint Chutney", "quantity": "2 tbsp", "priceRange": "₹10-20", "estimatedPrice": 15 },
+    { "name": "Yogurt", "quantity": "1/2 cup", "priceRange": "₹20-30", "estimatedPrice": 25 },
+    { "name": "Onion", "quantity": "1 medium", "priceRange": "₹10-15", "estimatedPrice": 12 },
+    { "name": "Spices", "quantity": "Mixed", "priceRange": "₹10-20", "estimatedPrice": 15 }
+  ],
+  "preCookingProcess": [
+    "Marinate chicken with Indian spices",
+    "Prepare mint chutney and raita",
+    "Slice onions and warm rotis"
+  ],
+  "cookingProcess": [
+    "Cook chicken until browned and tender",
+    "Spread chutney and raita on rotis",
+    "Add chicken and garnish with onions"
+  ],
+  "postCookingProcess": [
+    "Fold tacos and serve immediately",
+    "Optional: grill lightly for crisp texture"
+  ],
+  "nutritionClassification": {
+    "protein": "28g per taco",
+    "carbs": "25g per taco",
+    "fats": "14g per taco",
+    "fiber": "3g per taco",
+    "calories": "350 per taco"
+  },
+  "tipsAndTricks": [
+    "Use chicken seekh kebab mix for deeper flavor",
+    "Add shredded lettuce or cabbage for crunch"
+  ],
+  "isHighProtein": true,
+  "timeOfDay": "night"
+},
+
+{
+  "name": "High-Protein Chicken Rice",
+  "category": "Non-Veg",
+  "prepTime": "10min",
+  "cookTime": "20min",
+  "description": "A quick and nutritious post-workout meal combining lean chicken breast, brown rice, and veggies. Ideal for muscle recovery.",
+  "ingredients": [
+    { "name": "Chicken Breast", "quantity": "200g", "priceRange": "₹100-150", "estimatedPrice": 130 },
+    { "name": "Brown Rice", "quantity": "1 cup", "priceRange": "₹40-60", "estimatedPrice": 50 },
+    { "name": "Broccoli", "quantity": "1 cup", "priceRange": "₹20-30", "estimatedPrice": 25 },
+    { "name": "Olive Oil", "quantity": "1 tbsp", "priceRange": "₹30-50", "estimatedPrice": 40 },
+    { "name": "Garlic", "quantity": "2 cloves", "priceRange": "₹5-10", "estimatedPrice": 8 }
+  ],
+  "preCookingProcess": [
+    "Boil brown rice until tender",
+    "Cut chicken into cubes and season with salt and pepper",
+    "Chop broccoli and mince garlic"
+  ],
+  "cookingProcess": [
+    "Sauté garlic in olive oil",
+    "Add chicken and cook until browned",
+    "Add broccoli and stir-fry for 5 minutes",
+    "Mix with cooked rice and stir well"
+  ],
+  "postCookingProcess": [
+    "Serve hot with lemon wedge or chili flakes",
+    "Store leftovers in airtight container for meal prep"
+  ],
+  "nutritionClassification": {
+    "protein": "40g per serving",
+    "carbs": "36g per serving",
+    "fats": "7g per serving",
+    "fiber": "5g per serving",
+    "calories": "365 per serving"
+  },
+  "tipsAndTricks": [
+    "Use grilled chicken for extra flavor",
+    "Add bell peppers or spinach for variety"
+  ],
+  "isHighProtein": true,
+  "timeOfDay": "afternoon"
+},
+{
+  "name": "Aloo Paratha",
+  "category": "Veg",
+  "prepTime": "20min",
+  "cookTime": "20min",
+  "description": "Stuffed Indian flatbread with spiced mashed potatoes, pan-fried until golden. A hearty breakfast dish.",
+  "ingredients": [
+    { "name": "Wheat Flour", "quantity": "2 cups", "priceRange": "₹30-50", "estimatedPrice": 40 },
+    { "name": "Potatoes", "quantity": "3 medium", "priceRange": "₹20-30", "estimatedPrice": 25 },
+    { "name": "Green Chilies", "quantity": "2", "priceRange": "₹5-10", "estimatedPrice": 6 },
+    { "name": "Coriander", "quantity": "2 tbsp", "priceRange": "₹5-10", "estimatedPrice": 8 },
+    { "name": "Spices", "quantity": "Mixed", "priceRange": "₹10-20", "estimatedPrice": 15 }
+  ],
+  "preCookingProcess": [
+    "Boil and mash potatoes",
+    "Prepare dough with wheat flour and water",
+    "Mix mashed potatoes with spices and herbs"
+  ],
+  "cookingProcess": [
+    "Roll dough and stuff with potato mixture",
+    "Seal and roll into flat circles",
+    "Cook on tawa with ghee until golden brown"
+  ],
+  "postCookingProcess": [
+    "Serve hot with curd and pickle",
+    "Optional: add butter on top"
+  ],
+  "nutritionClassification": {
+    "protein": "8g per serving",
+    "carbs": "40g per serving",
+    "fats": "15g per serving",
+    "fiber": "5g per serving",
+    "calories": "350 per serving"
+  },
+  "tipsAndTricks": [
+    "Use warm water for softer dough",
+    "Mash potatoes finely to avoid tearing while rolling"
+  ],
+  "isHighProtein": false,
+  "timeOfDay": "morning"
+},
+{
+  "name": "Butter Chicken",
+  "category": "Non-Veg",
+  "prepTime": "30min",
+  "cookTime": "40min",
+  "description": "Creamy and mildly spiced chicken curry made with tomato gravy and butter. A North Indian favorite.",
+  "ingredients": [
+    { "name": "Chicken", "quantity": "500g", "priceRange": "₹180-250", "estimatedPrice": 220 },
+    { "name": "Butter", "quantity": "3 tbsp", "priceRange": "₹30-50", "estimatedPrice": 40 },
+    { "name": "Tomatoes", "quantity": "4 medium", "priceRange": "₹20-30", "estimatedPrice": 25 },
+    { "name": "Cream", "quantity": "1/2 cup", "priceRange": "₹30-50", "estimatedPrice": 40 },
+    { "name": "Ginger-Garlic Paste", "quantity": "2 tbsp", "priceRange": "₹10-15", "estimatedPrice": 12 },
+    { "name": "Spices", "quantity": "Mixed", "priceRange": "₹20-40", "estimatedPrice": 30 }
+  ],
+  "preCookingProcess": [
+    "Marinate chicken with yogurt, chili powder, and garam masala for 30 minutes",
+    "Chop tomatoes and prepare ginger-garlic paste"
+  ],
+  "cookingProcess": [
+    "Cook marinated chicken until half done",
+    "Prepare tomato gravy with butter and spices",
+    "Add chicken and simmer until fully cooked",
+    "Finish with cream and kasuri methi"
+  ],
+  "postCookingProcess": [
+    "Garnish with coriander and drizzle cream",
+    "Serve hot with naan or rice"
+  ],
+  "nutritionClassification": {
+    "protein": "28g per serving",
+    "carbs": "22g per serving",
+    "fats": "30g per serving",
+    "fiber": "3g per serving",
+    "calories": "480 per serving"
+  },
+  "tipsAndTricks": [
+    "Use fresh cream for richer taste",
+    "Grill chicken slightly before adding to gravy"
+  ],
+  "isHighProtein": true,
+  "timeOfDay": "evening"
+}
+]

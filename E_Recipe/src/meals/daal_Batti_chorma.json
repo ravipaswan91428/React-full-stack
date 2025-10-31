@@ -1,0 +1,150 @@
+[{
+    "id": "12",
+    "name": "Daal Baati Churma",
+    "category": "veg",
+    "image": "daal baati churma",
+    "prevImage": "",
+    "rating": 4.8,
+    "reviews": 312,
+    "prepTime": "30min",
+    "cookTime": "45min",
+    "calories": 420,
+    "protein": 18,
+    "description": "A traditional Rajasthani dish featuring baked wheat balls (baati) served with spicy, flavorful mixed lentil curry (daal) and sweet churma. It is hearty, rich, and best enjoyed with ghee.",
+    "ingredients": [
+      {
+        "name": "wheat flour",
+        "quantity": "2 cups",
+        "priceRange": "40-80",
+        "estimatedPrice": 60
+      },
+      {
+        "name": "ghee (clarified butter)",
+        "quantity": "6 tbsp",
+        "priceRange": "50-100",
+        "estimatedPrice": 80
+      },
+      {
+        "name": "chana dal (split Bengal gram)",
+        "quantity": "1/2 cup",
+        "priceRange": "30-50",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "toor dal (pigeon peas)",
+        "quantity": "1/2 cup",
+        "priceRange": "40-60",
+        "estimatedPrice": 50
+      },
+      {
+        "name": "moong dal (green gram)",
+        "quantity": "1/4 cup",
+        "priceRange": "30-50",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "onion (chopped)",
+        "quantity": "1 medium",
+        "priceRange": "10-20",
+        "estimatedPrice": 15
+      },
+      {
+        "name": "tomato (chopped)",
+        "quantity": "1 medium",
+        "priceRange": "10-20",
+        "estimatedPrice": 15
+      },
+      {
+        "name": "ginger garlic paste",
+        "quantity": "1 tbsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 15
+      },
+      {
+        "name": "turmeric powder",
+        "quantity": "1/2 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "red chili powder",
+        "quantity": "1 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "coriander powder",
+        "quantity": "1 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste",
+        "priceRange": "10-15",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "lemon juice",
+        "quantity": "1 tbsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 15
+      },
+      {
+        "name": "water",
+        "quantity": "3 cups",
+        "priceRange": "0-10",
+        "estimatedPrice": 5
+      }
+    ],
+    "preCookingProcess": [
+      "Combine whole wheat flour, salt, and 2 tbsp ghee in a large bowl.",
+      "Add water gradually to make a stiff dough.",
+      "Shape the dough into small round balls (baatis).",
+      "Preheat oven or tandoor to medium heat."
+    ],
+    "cookingProcess": {
+      "Prepare the baatis": [
+        "Place the baatis on a baking tray and bake at 180°C for 20–25 minutes until golden brown from all sides.",
+        "Once done, dip the hot baatis in melted ghee for rich flavor and moisture."
+      ],
+      "Cook the dal": [
+        "Rinse and pressure cook chana dal, toor dal, and moong dal with 3 cups water, turmeric, and salt until soft.",
+        "In another pan, heat 2 tbsp ghee and add cumin seeds.",
+        "Add chopped onion, ginger garlic paste, and sauté until golden brown.",
+        "Mix in tomatoes, red chili powder, and coriander powder. Cook until the oil separates.",
+        "Add the cooked dal to this mixture and simmer for 5–7 minutes."
+      ],
+      "Prepare churma (optional)": [
+        "Crumble one or two baked baatis, add 1 tbsp ghee and 1 tbsp sugar, mix well to make churma."
+      ],
+      "Combine and finish": [
+        "Serve baatis warm with hot dal poured on top.",
+        "Drizzle with more ghee and serve with churma on the side."
+      ]
+    },
+    "postCookingProcess": [
+      "Taste and adjust salt or spice if needed.",
+      "Garnish dal with chopped coriander leaves and a squeeze of lemon juice.",
+      "Serve piping hot for the authentic Rajasthani experience."
+    ],
+    "nutritionClassification": {
+      "protein": "18g per serving",
+      "carbs": "52g per serving",
+      "fats": "12g per serving",
+      "fiber": "10g per serving"
+    },
+    "tipsAndTricks": [
+      "Roast baatis evenly for crisp outer texture.",
+      "Use a mix of dals to get balanced flavor.",
+      "Add hot ghee just before serving for best aroma."
+    ],
+    "isHighProtein": true,
+    "timeOfDay": "afternoon"
+}]

@@ -1,0 +1,147 @@
+[{
+    "id": "15",
+    "name": "Fafda-Jalebi",
+    "category": "veg",
+    "image": "fafda jalebi",
+    "prevImage": "",
+    "rating": 4.9,
+    "reviews": 368,
+    "prepTime": "45min",
+    "cookTime": "30min",
+    "calories": 420,
+    "protein": 12,
+    "description": "A traditional Gujarati breakfast pairing of crisp, gram-flour sticks (fafda) and sweet, golden jalebi spirals. This combination perfectly balances savory crunch and syrupy sweetness, usually enjoyed on festive mornings like Dussehra.",
+    "ingredients": [
+      {
+        "name": "besan (gram flour)",
+        "quantity": "2 cups",
+        "priceRange": "40-60",
+        "estimatedPrice": 50
+      },
+      {
+        "name": "ajwain (carom seeds)",
+        "quantity": "1/2 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "baking soda",
+        "quantity": "1/4 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "turmeric powder",
+        "quantity": "1/4 tsp",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste",
+        "priceRange": "5-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "oil (for dough)",
+        "quantity": "2 tbsp",
+        "priceRange": "30-50",
+        "estimatedPrice": 35
+      },
+      {
+        "name": "water",
+        "quantity": "as required",
+        "priceRange": "0-10",
+        "estimatedPrice": 5
+      },
+      {
+        "name": "sugar",
+        "quantity": "1 cup",
+        "priceRange": "20-40",
+        "estimatedPrice": 30
+      },
+      {
+        "name": "lemon juice",
+        "quantity": "1 tsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "saffron strands (optional)",
+        "quantity": "a few",
+        "priceRange": "30-60",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "cardamom powder",
+        "quantity": "1/4 tsp",
+        "priceRange": "10-20",
+        "estimatedPrice": 10
+      },
+      {
+        "name": "refined flour (maida)",
+        "quantity": "1 cup",
+        "priceRange": "30-50",
+        "estimatedPrice": 40
+      },
+      {
+        "name": "curd (for jalebi batter)",
+        "quantity": "1/2 cup",
+        "priceRange": "20-30",
+        "estimatedPrice": 25
+      },
+      {
+        "name": "oil or ghee (for frying)",
+        "quantity": "as required",
+        "priceRange": "40-60",
+        "estimatedPrice": 50
+      }
+    ],
+    "preCookingProcess": [
+      "In a bowl, mix besan, ajwain, turmeric, salt, and baking soda for fafda.",
+      "Add 2 tbsp oil and water gradually to make a firm dough.",
+      "Cover and let it rest for 10–15 minutes.",
+      "For jalebi, mix maida, curd, a pinch of baking soda, and a little water to form a thick batter.",
+      "Set aside to ferment for 30–40 minutes."
+    ],
+    "cookingProcess": {
+      "Make the fafda": [
+        "Divide the dough into small portions and roll each into a thin long strip using the base of your palm on an oiled surface.",
+        "Heat oil in a kadai on medium-high heat and fry the strips until crisp and golden.",
+        "Drain on a paper towel to remove excess oil."
+      ],
+      "Prepare sugar syrup for jalebi": [
+        "In a saucepan, combine sugar and 1/2 cup water.",
+        "Boil until it reaches one-string consistency.",
+        "Add lemon juice, saffron strands, and cardamom powder. Keep it warm (not boiling)."
+      ],
+      "Make the jalebi": [
+        "Pour the fermented batter into a piping bag or squeeze bottle.",
+        "Pipe out spirals into medium-hot oil or ghee.",
+        "Fry until golden and crisp on both sides.",
+        "Immediately dip the hot jalebis into the warm sugar syrup for a few seconds, then remove."
+      ],
+      "Serve together": [
+        "Serve hot crispy fafda with freshly soaked jalebi spirals.",
+        "Optionally, pair with fried green chilies and raw papaya chutney."
+      ]
+    },
+    "postCookingProcess": [
+      "Ensure both fafda and jalebi are served immediately for best texture contrast.",
+      "Store leftover jalebi in a sealed container at room temperature; reheat lightly before serving.",
+      "Fafda stays crisp if kept in an airtight container."
+    ],
+    "nutritionClassification": {
+      "protein": "12g per serving",
+      "carbs": "58g per serving",
+      "fats": "14g per serving",
+      "fiber": "5g per serving"
+    },
+    "tipsAndTricks": [
+      "Always fry fafda on medium heat to maintain crunchiness.",
+      "For perfect jalebi texture, ensure the batter is slightly fermented and piping consistency is correct.",
+      "Do not over-soak jalebi in syrup; a few seconds is enough."
+    ],
+    "isHighProtein": false,
+    "timeOfDay": "morning"
+}]
