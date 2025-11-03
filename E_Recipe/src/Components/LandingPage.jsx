@@ -2,6 +2,7 @@ import React from 'react'
 import { NavLink } from 'react-router'
 import Card from './Card'
 import Gallary from './Gallary'
+import ChickenBiryani from '.\images\chicken-birayani-1-1.png'
 
 export default function LandingPage() {
   return (
@@ -49,7 +50,7 @@ export default function LandingPage() {
       </div>
 
       <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3'><Card 
-        //image={ChickenBiryani}
+        image={ChickenBiryani}
         name="Thakua"
         desc="A traditional sweet from Bihar, mainly prepared as a sacred offering during Chhath Puja. Thakua is a deep-fried biscuit"
         />
