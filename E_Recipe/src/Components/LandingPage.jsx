@@ -2,7 +2,6 @@ import React from 'react'
 import { NavLink } from 'react-router'
 import Card from './Card'
 import Gallary from './Gallary'
-import ChickenBiryani from '.\images\chicken-birayani-1-1.png'
 
 export default function LandingPage() {
   return (
@@ -49,35 +48,35 @@ export default function LandingPage() {
         </div>
       </div>
 
-      <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3'><Card 
-        image={ChickenBiryani}
+      <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 overflow-hidden'>
+        <Card
         name="Thakua"
         desc="A traditional sweet from Bihar, mainly prepared as a sacred offering during Chhath Puja. Thakua is a deep-fried biscuit"
         />
         <Card 
         //image={ChickenBiryani}
-        name="Thakua"
-        desc="A traditional sweet from Bihar, mainly prepared as a sacred offering during Chhath Puja. Thakua is a deep-fried biscuit"
+        name="Daal Baati Churma"
+        desc="A traditional Rajasthani dish featuring baked wheat balls (baati) served with spicy, flavorful mixed lentil curry (daal) and sweet churma. It is hearty, rich, and best enjoyed with ghee."
         />
         <Card 
         //image={ChickenBiryani}
-        name="Thakua"
-        desc="A traditional sweet from Bihar, mainly prepared as a sacred offering during Chhath Puja. Thakua is a deep-fried biscuit"
+        name="Dhokla"
+        desc="A soft and spongy steamed snack from Gujarat made with fermented chickpea flour (besan) mustard seeds, curry leaves, and green chilies. Light, fluffy, and mildly tangy—perfect for breakfast or tea time."
         />
         <Card 
         //image={ChickenBiryani}
-        name="Thakua"
-        desc="A traditional sweet from Bihar, mainly prepared as a sacred offering during Chhath Puja. Thakua is a deep-fried biscuit"
+        name="Fafda-Jalebi"
+        desc="A traditional Gujarati breakfast pairing of crisp, gram-flour sticks (fafda) and sweet, golden jalebi spirals. This combination perfectly balances savory crunch and syrupy sweetness, usually enjoyed on festive mornings like Dussehra."
         />
         <Card 
         //image={ChickenBiryani}
-        name="Thakua"
-        desc="A traditional sweet from Bihar, mainly prepared as a sacred offering during Chhath Puja. Thakua is a deep-fried biscuit"
+        name="Gatte Ki Sabzi"
+        desc="A Rajasthani delicacy made from gram flour (besan) dumplings, steamed and simmered in a spiced yogurt-based gravy. It is rich, tangy, and aromatic, best enjoyed with hot puris, roti, or steamed rice."
         />
         <Card 
         //image={ChickenBiryani}
-        name="Thakua"
-        desc="A traditional sweet from Bihar, mainly prepared as a sacred offering during Chhath Puja. Thakua is a deep-fried biscuit"
+        name="Ker Sangri"
+        desc="A traditional Rajasthani dry curry made from dried desert berries (ker) and beans (sangri), cooked with a blend of local spices, yogurt, and oil. It delivers earthy, tangy, and spicy flavors and pairs perfectly with bajra roti or rice."
         /></div>
 
 
