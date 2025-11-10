@@ -6,11 +6,13 @@ import { Link } from 'react-router-dom'
 
 
 const FeaturedRecipe = () => {
+
+
  const [featuredRecipeData,setFeaturedRecipeData] = useState([])
 
  useEffect(()=>{
-
-
+   const sortedRecipes = [...recipes].sort((a, b) => b.calories - a.calories);
+    setFeaturedRecipeData(sortedRecipes.slice(0, 6));
  },[])
   return (
     <div>
@@ -29,7 +31,7 @@ const FeaturedRecipe = () => {
             </span>
         </div>
         <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-6 space-evenly mt-15 justify-center'>
-          {recipes.slice(0,6).map((item)=>(
+          {featuredRecipeData.slice(0,6).map((item)=>(
           <RecipeCard 
             key={item?.id}
             id={item?.id}

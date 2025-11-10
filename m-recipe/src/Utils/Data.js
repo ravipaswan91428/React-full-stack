@@ -132,7 +132,7 @@ const recipes = [
       ]
     },
     "postCookingProcess": [
-      "[3:45 pm, 30/10/2025] +91 72610 30200: Taste and adjust the salt and sugar if necessary",
+      "Taste and adjust the salt and sugar if necessary",
       "Serve hot with fluffy basmati rice, naan, or paratha.",
       "Add a side of kachumber salad (Indian salad) for a fresh contrast."
     ],
