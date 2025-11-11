@@ -1,4 +1,6 @@
+const hour = new Date().getHours();
 const recipes = [
+  
   {
     "id": "1",
     "name": "Butter Chicken Makhani",
@@ -1330,3 +1332,4 @@ const recipes = [
 }]
 
 export default recipes;
+export {hour};

@@ -7,7 +7,8 @@ import { useParams } from 'react-router-dom'
 const RecipeDetails = () => {
 
   const { id } = useParams()
-  const recipe = recipes.find((r) => r.id === id)
+  const recipe = recipes.find((r) => r.id === (id))
+  
 
   return (
     <div className='overflow-hidden gap-2'>
@@ -26,7 +27,7 @@ const RecipeDetails = () => {
             <h1 className='text-4xl font-bold font-serif'>Ingridents</h1>
             <div className='h-150 border mt-5 rounded-2xl'>
               <ul className="list-none ml-6 text-gray-700">
-               {recipe.ingredients.map((item, index) => (
+               {recipe?.ingredients?.map((item, index) => (
                  <li key={index}>
                    {item.name} — <span>{item.quantity}</span>
                 </li>
@@ -38,7 +39,7 @@ const RecipeDetails = () => {
             <h1 className='font-bold text-4xl font-serif'>Pre Cooking</h1>
             <div className='mt-5 rounded-2xl border wrap-break-word whitespace-normal relative text-2xl p-5'>
               <ul className='list-disc p-2'>
-                {recipe.preCookingProcess.map((step, index)=>(
+                {recipe?.preCookingProcess?.map((step, index)=>(
                   <li key={index}>
                       {step}  
                   </li>
@@ -48,7 +49,7 @@ const RecipeDetails = () => {
           </div>
           <section>
           <h2 className="text-2xl font-semibold mb-4">Cooking Process</h2>
-          {Object.entries(recipe.cookingProcess).map(([sectionTitle, steps]) => (
+          {Object.entries(recipe?.cookingProcess || {} ).map(([sectionTitle, steps]) => (
               <div key={sectionTitle} className="mb-8">
                 <h3 className="text-xl font-bold text-amber-600 mb-2">{sectionTitle}</h3>
                 <ul className="list-disc ml-6 space-y-1 text-gray-700">
@@ -63,7 +64,7 @@ const RecipeDetails = () => {
             <h1 className='font-serif font-bold text-4xl'>Post Cooking Process</h1>
             <div className='border rounded-2xl wrap-break-word whitespace-normal relative mt-10 p-2 text-2xl'>
               <ul className="list-decimal ml-6 text-gray-700 mt-2 ">
-                {recipe.postCookingProcess.map((step, index) => (
+                {recipe?.postCookingProcess?.map((step, index) => (
                  <li key={index} className="py-1">
                    {step}
                  </li>
@@ -84,7 +85,7 @@ const RecipeDetails = () => {
               <h1 className='text-4xl font-bold font-serif'>Tips & Tricks</h1>
               <div className='mt-10 p-2 text-2xl rounded-2xl border border-orange-500 bg-slate-100'>
                 <ul className="list-decimal ml-6 text-gray-700">
-                   {recipe.postCookingProcess.map((step, index) => (
+                   {recipe?.postCookingProcess.map((step, index) => (
                    <li key={index} className="py-1">
                      {step}
                    </li>
@@ -120,12 +121,7 @@ const RecipeDetails = () => {
         <div className='justify-between place-items-center m-4'>
           <div className='h-50 w-105 p-4 rounded-2xl border justify-center'>
             <h1 className='text-2xl font-bold font-serif'>Nutrition classification</h1>
-            <ol className='justify-center p-2 text-xl font-serif'>
-              <li>1</li>
-              <li>2</li>
-              <li>3</li>
-              <li>4</li>
-            </ol>
+              
           </div>
           <div className='mt-10'>
             {recipes.slice(0,1).map((item)=>(

@@ -4,7 +4,7 @@ import { Clock,Star,Flame } from 'lucide-react'
 import { Link } from 'react-router-dom'
 
 
-const RecipeCard = ({ id, image, name, description, prepTime, cookTime, calories, rating, reviews }) => {
+const RecipeCard = ({ id, image, name, description, prepTime, cookTime, calories, rating, reviews,isHighProtein }) => {
 
   return (
     <Link key={id} to={`/recipe/${id}`}>
@@ -14,8 +14,11 @@ const RecipeCard = ({ id, image, name, description, prepTime, cookTime, calories
           id={id}
           src={image}
           alt={name}
-          className="w-full h-full object-cover overflow-hidden duration-300 hover:scale-110"
+          className="w-full h-full object-cover overflow-hidden duration-300 hover:scale-115"
         />
+        <div>
+          <span className='text-9xl flex text-white'>High</span>
+        </div>
       </div>
       <div>
         <div className='p-2'>

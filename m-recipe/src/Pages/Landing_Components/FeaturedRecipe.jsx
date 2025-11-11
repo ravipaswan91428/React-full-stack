@@ -14,6 +14,7 @@ const FeaturedRecipe = () => {
    const sortedRecipes = [...recipes].sort((a, b) => b.calories - a.calories);
     setFeaturedRecipeData(sortedRecipes.slice(0, 6));
  },[])
+ 
   return (
     <div>
         <div className='m-10'>
