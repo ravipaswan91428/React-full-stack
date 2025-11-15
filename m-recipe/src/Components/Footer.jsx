@@ -1,20 +1,20 @@
 import { Link } from "react-router-dom"
 
-export default function Footer() {
+export default function Footer({theme}) {
+
+  
+  const footerBg = theme === 'light' ? 'text-gray-800 bg-white' : 'text-gray-200 bg-slate-800'
+
 	return (
 		<footer
-      className="py-12 px-4 mt-16"
-      style={{
-        backgroundColor: "var(--bg-secondary)",
-        borderTop: "1px solid var(--border)",
-      }}
+      className={`py-12 px-4 mt-16 ${footerBg}`}
     >
       <div className="max-w-7xl mx-auto">
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div>
             <h3
               className="font-['Poppins'] font-semibold mb-4"
-              style={{ color: "var(--text-primary)" }}
+              style={{ color: "" }}
             >
               RecipeReveal
             </h3>
@@ -30,7 +30,7 @@ export default function Footer() {
           <div>
             <h4
               className="font-['Poppins'] font-medium mb-4"
-              style={{ color: "var(--text-primary)" }}
+              style={{ color: "" }}
             >
               Quick Links
             </h4>
@@ -87,7 +87,7 @@ export default function Footer() {
           <div>
             <h4
               className="font-['Poppins'] font-medium mb-4"
-              style={{ color: "var(--text-primary)" }}
+              style={{ color: "" }}
             >
               Categories
             </h4>
@@ -110,7 +110,7 @@ export default function Footer() {
           <div>
             <h4
               className="font-['Poppins'] font-medium mb-4"
-              style={{ color: "var(--text-primary)" }}
+              style={{ color: "" }}
             >
               Connect
             </h4>

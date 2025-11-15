@@ -8,7 +8,10 @@ const RecipeDetails = () => {
 
   const { id } = useParams()
   const recipe = recipes.find((r) => r.id === (id))
-  
+
+  const currentRecipe = recipes.filter(
+  (item) => item.category === recipe?.category && item.id !== recipe.id
+);
 
   return (
     <div className='overflow-hidden gap-2'>
@@ -24,9 +27,9 @@ const RecipeDetails = () => {
           <h1 className='text-4xl font-bold font-serif'>About the recipe</h1>
           <p className='font-serif text-gray-500 text-xl leading-8 mt-4 wrap-anywhere'>{recipe?.description}</p>
           <div className='mt-10 text-2xl'>
-            <h1 className='text-4xl font-bold font-serif'>Ingridents</h1>
-            <div className='h-150 border mt-5 rounded-2xl'>
-              <ul className="list-none ml-6 text-gray-700">
+            <h1 className='text-4xl font-bold font-serif wrap-break-word whitespace-normal'>Ingridents</h1>
+            <div className='border mt-5 rounded-2xl'>
+              <ul className="list-none ml-6 text-gray-700 m-5">
                {recipe?.ingredients?.map((item, index) => (
                  <li key={index}>
                    {item.name} — <span>{item.quantity}</span>
@@ -47,12 +50,12 @@ const RecipeDetails = () => {
               </ul>
             </div>
           </div>
-          <section>
-          <h2 className="text-2xl font-semibold mb-4">Cooking Process</h2>
+          <section className='mt-15'>
+          <h2 className="text-4xl font-semibold mb-4 font-serif">Cooking Process</h2>
           {Object.entries(recipe?.cookingProcess || {} ).map(([sectionTitle, steps]) => (
-              <div key={sectionTitle} className="mb-8">
-                <h3 className="text-xl font-bold text-amber-600 mb-2">{sectionTitle}</h3>
-                <ul className="list-disc ml-6 space-y-1 text-gray-700">
+              <div key={sectionTitle} className="mt-8">
+                <h3 className="text-2xl font-bold ml-1 font-serif">{sectionTitle}</h3>
+                <ul className="list-disc ml-6 space-y-1 text-gray-700 text-2xl mt-5">
                   {steps.map((step, index) => (
                     <li key={index}>{step}</li>
                   ))}
@@ -119,26 +122,37 @@ const RecipeDetails = () => {
           
         </div>
         <div className='justify-between place-items-center m-4'>
-          <div className='h-50 w-105 p-4 rounded-2xl border justify-center'>
+          <div className=' wrap-break-word whitespace-normal w-105 p-4 rounded-2xl border justify-center'>
             <h1 className='text-2xl font-bold font-serif'>Nutrition classification</h1>
+            <ul className='list-none text-gray-500 text-xl mt-5'>
+            {Object.entries(recipe?.nutritionClassification || {}).map(([step, index])=>(
+                <li key={step} className='flex justify-between p-1'>
+                  <span>{step}</span>{index}<span></span>
+                </li>
+            ))}
+            </ul>
               
           </div>
           <div className='mt-10'>
-            {recipes.slice(0,1).map((item)=>(
-            <RecipeCard 
-              key={item?.id}
-              id={item?.id}
-              image={item?.image}
-              alt={item?.name}
-              name={item?.name}
-              rating={item?.rating}
-              reviews={item?.reviews}
-              calories={item?.calories}
-              prepTime={item?.prepTime}
-              cookTime={item.cookTime}
-              className='w-150'
-            />
-            ))}      
+            <h1 className='text-4xl font-bold font-serif mb-5'>Suggested Recipe</h1>
+            {currentRecipe.length > 0 ? (
+              currentRecipe.slice(0,1).map((item) => (
+                <RecipeCard 
+                  key={item.id}
+                  id={item.id}
+                  image={item.image}
+                  alt={item.name}
+                  name={item.name}
+                  rating={item.rating}
+                  reviews={item.reviews}
+                  calories={item.calories}
+                  prepTime={item.prepTime}
+                  cookTime={item.cookTime}
+                />
+              ))
+            ) : (
+              <p>No related recipes found.</p>
+            )}
           </div>
         </div>
       </div>

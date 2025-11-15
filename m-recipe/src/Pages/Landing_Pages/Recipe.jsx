@@ -4,8 +4,13 @@ import { useState } from 'react';
 import { Search } from 'lucide-react';
 import RecipeCard from '../../Components/RecipeCard'
 
-const Recipe = () => {
+const Recipe = ({theme}) => {
     const [query, setQuery] = useState("");
+
+    const searchBg = theme === "light"
+      ? "bg-gray-900 text-white"
+      : "bg-white text-black";
+    
 
     const filteredRecipes =
     query.trim() === ""
@@ -16,11 +21,6 @@ const Recipe = () => {
             recipe.description.toLowerCase().includes(query.toLowerCase())
         );
 
-        const handleSearch = () => {
-        if (username.trim() !== "") {
-        navigate(`/github/${username.trim()}`);
-        }
-        }
 
         const handleKeyDown = (e) => {
         if (e.key === "Enter") {
@@ -61,16 +61,16 @@ const Recipe = () => {
             </div>
         </div>     
       <div>
-        <div className='flex gap-4 w-250 '>
+        <div className={`flex gap-4 w-250 rounded-4xl ${searchBg}`}>
             <input 
             type='text'
             placeholder='Find your recipe'
-            className='border rounded-3xl h-12 w-full p-2'
+            className='border border-amber-800 rounded-3xl h-12 w-full p-2'
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             onKeyDown={handleKeyDown} 
             />
-        <button className='cursor-pointer p-2 bg-amber-600 text-white hover:scale-105 duration-200 rounded-4xl w-30'
+        <button className={`cursor-pointer p-2 bg-amber-600 hover:scale-105 duration-200 rounded-4xl w-30`}
         onClick={() => setQuery(query.trim())}
         >
             Search</button>

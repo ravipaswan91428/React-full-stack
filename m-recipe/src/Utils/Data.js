@@ -1,4 +1,4 @@
-const hour = new Date().getHours();
+
 const recipes = [
   
   {
@@ -1332,4 +1332,3 @@ const recipes = [
 }]
 
 export default recipes;
-export {hour};

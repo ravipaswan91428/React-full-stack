@@ -4,7 +4,7 @@ import { Star,Clock,TrendingUp } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 
-const HeroPage = ({id}) => {
+const HeroPage = ({id,theme}) => {
 
     const recipe = recipes[Math.floor(Math.random() * recipes.length)];
 
@@ -37,7 +37,7 @@ const HeroPage = ({id}) => {
                         </div>
                     </div>
                     <div className='mt-10 flex gap-10'>
-                        <Link to={`/recipe/:${id}`}>
+                        <Link to={`/recipe/${recipe.id}`}>
                             <button className='cursor-pointer h-10 p-2 bg-amber-600 text-white hover:scale-105 duration-200 rounded-4xl'>View Recipe</button>
                         </Link> 
                         <Link to="/recipe">
@@ -55,11 +55,11 @@ const HeroPage = ({id}) => {
                     <div className='bg-white w-142 rounded-2xl p-4 ml-2 mr-2 relative bottom-30 justify-between items-center flex'>
                         <div>
                             <h2 className='text-xl text-gray-500'>Calories</h2>
-                            <span className='text-3xl font-bold'>{recipe.calories}</span>
+                            <span className='text-3xl font-bold text-black'>{recipe.calories}</span>
                         </div>
                         <div>
                             <h2 className='text-xl text-gray-500'>Cusine</h2>
-                            <span className='text-3xl font-bold'>{recipe.category}</span>
+                            <span className='text-3xl font-bold text-black'>{recipe.category}</span>
                         </div>
                     </div>
                 </div>

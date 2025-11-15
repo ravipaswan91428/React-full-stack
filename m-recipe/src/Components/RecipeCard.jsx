@@ -16,14 +16,14 @@ const RecipeCard = ({ id, image, name, description, prepTime, cookTime, calories
           alt={name}
           className="w-full h-full object-cover overflow-hidden duration-300 hover:scale-115"
         />
-        <div>
+        {/* <div>
           <span className='text-9xl flex text-white'>High</span>
-        </div>
+        </div> */}
       </div>
       <div>
         <div className='p-2'>
           <h1 className='font-semibold font-serif'>{name}</h1>
-          <p className="text-gray-600 text-sm line-clamp-2">{description}</p>
+          <p className="text-gray-500 text-sm line-clamp-2">{description}</p>
         </div>
         <div className="flex items-center justify-between mt-3 p-2 text-xl">
             <div className="scale-120 flex items-center p-2 gap-2">
