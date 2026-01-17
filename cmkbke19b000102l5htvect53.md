@@ -3,7 +3,7 @@ title: "Git and GitHub"
 datePublished: Mon Jan 12 2026 19:37:11 GMT+0000 (Coordinated Universal Time)
 cuid: cmkbke19b000102l5htvect53
 slug: git-and-github
-tags: git-and-github-for-beginners
+tags: chaiaurcode, chaicode, git-and-github-for-beginners
 
 ---
 
